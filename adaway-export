@@ -100,6 +100,7 @@
 127.0.0.1 feedback-api.aliyuncs.com
 127.0.0.1 api.appodealx.com
 127.0.0.1 f.qcwzx.net.cn
+127.0.0.1 api.comm.miui.com
 127.0.0.1 d.adroll.com
 127.0.0.1 oc.umeng.com
 127.0.0.1 dts.startappservice.com
@@ -424,7 +425,6 @@
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 v.gdt.qq.com
-127.0.0.1 gw.alicdn.com
 127.0.0.1 c.sta.haloapps.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 pixel.advertising.com
