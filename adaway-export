@@ -48,7 +48,6 @@
 127.0.0.1 cdn-adn.rayjump.com
 127.0.0.1 music.httpdns.c.163.com
 127.0.0.1 ads.trafficjunky.net
-127.0.0.1 zos.alipayobjects.com
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 impact.applifier.com
 127.0.0.1 www.startappexchange.com
@@ -129,6 +128,7 @@
 127.0.0.1 med.heyzap.com
 127.0.0.1 adserver.xpanama.net
 127.0.0.1 gllive.gameloft.com
+127.0.0.1 api.vungle.com
 127.0.0.1 ads-sdk.avidly.com
 127.0.0.1 ad.atdmt.com
 127.0.0.1 tags.crwdcntrl.net
@@ -142,7 +142,6 @@
 127.0.0.1 track.appsflyer.com
 127.0.0.1 adserver.adtechus.com
 127.0.0.1 z7.cnzz.com
-127.0.0.1 a.alipayobjects.com
 127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 ads.heyzap.com
@@ -203,7 +202,7 @@
 127.0.0.1 data.flurry.com
 127.0.0.1 wd.adcolony.com
 127.0.0.1 pgdt.gtimg.cn
-127.0.0.1 api.vungle.com
+127.0.0.1 eclick.baidu.com
 127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 ads.avocet.io
 127.0.0.1 ulogs.umeng.com
@@ -258,6 +257,7 @@
 127.0.0.1 only-617794-223-73-223-217.nstool.netease.com
 127.0.0.1 as1.m.hao123.com
 127.0.0.1 batch.upsight-api.com
+127.0.0.1 av1.xdrig.com
 127.0.0.1 pat.farvd.com
 127.0.0.1 dai.shuzilm.cn
 127.0.0.1 g.cn.miaozhen.com
@@ -315,7 +315,6 @@
 127.0.0.1 ctrack.trafficjunky.net
 127.0.0.1 api.c.avazunativeads.com
 127.0.0.1 info.gamecenter.qq.com
-127.0.0.1 t.alipayobjects.com
 127.0.0.1 ads.nexage.com
 127.0.0.1 images.sohu.com
 127.0.0.1 s9.cnzz.com
@@ -421,7 +420,6 @@
 127.0.0.1 tracker.fyber.com
 127.0.0.1 balancer.devtodev.com
 127.0.0.1 wuliao.epro.sogou.com
-127.0.0.1 eclick.baidu.com
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 v.gdt.qq.com
