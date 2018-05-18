@@ -98,7 +98,7 @@
 127.0.0.1 x.vamaker.com
 127.0.0.1 feedback-api.aliyuncs.com
 127.0.0.1 api.appodealx.com
-127.0.0.1 f.qcwzx.net.cn
+127.0.0.1 engine.sponsorpay.com
 127.0.0.1 api.comm.miui.com
 127.0.0.1 d.adroll.com
 127.0.0.1 oc.umeng.com
@@ -118,7 +118,6 @@
 127.0.0.1 analytics.163.com
 127.0.0.1 ads.admaru.com
 127.0.0.1 s22.cnzz.com
-127.0.0.1 gm.mmstat.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 www.google-analytics.com
 127.0.0.1 c.zlongad.com
@@ -180,6 +179,7 @@
 127.0.0.1 api.appodeal.com
 127.0.0.1 c.wrating.com
 127.0.0.1 ad13.adfarm1.adition.com
+127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
 127.0.0.1 ad.bayescom.com
 127.0.0.1 xtrader.cm.admaster.com.cn
 127.0.0.1 assets.growingio.com
@@ -188,7 +188,7 @@
 127.0.0.1 img-ann-sta.haloapps.com
 127.0.0.1 init.startappservice.com
 127.0.0.1 alog.umeng.co
-127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
+127.0.0.1 gsp0.baidu.com
 127.0.0.1 click.pinnatta-ads.com
 127.0.0.1 ads.csdn.net
 127.0.0.1 alog.umeng.com
@@ -201,6 +201,7 @@
 127.0.0.1 req.startappservice.com
 127.0.0.1 data.flurry.com
 127.0.0.1 wd.adcolony.com
+127.0.0.1 js.idgdmg.com.cn
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 eclick.baidu.com
 127.0.0.1 cfg.imtt.qq.com
@@ -208,14 +209,15 @@
 127.0.0.1 ulogs.umeng.com
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 ads.traffichunt.com
-127.0.0.1 log.mmstat.com
 127.0.0.1 cm004.getui.igexin.com
 127.0.0.1 smt.admaster.com.cn
 127.0.0.1 mbe-cdn.fyber.com
 127.0.0.1 nex.163.com
 127.0.0.1 rm4.adccache.cn
+127.0.0.1 zs25.cnzz.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 cpro2.baidustatic.com
+127.0.0.1 rcgi.video.qq.com
 127.0.0.1 upload.mobpowertech.com
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 blackhole.m.jd.com
@@ -261,6 +263,7 @@
 127.0.0.1 pat.farvd.com
 127.0.0.1 dai.shuzilm.cn
 127.0.0.1 g.cn.miaozhen.com
+127.0.0.1 bdm.911cha.com
 127.0.0.1 www.adollo.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 api.crittercism.com
@@ -339,7 +342,7 @@
 127.0.0.1 bulk-click.startappservice.com
 127.0.0.1 uop.umeng.com
 127.0.0.1 rt.applvn.com
-127.0.0.1 engine.sponsorpay.com
+127.0.0.1 sp1.baidu.com
 127.0.0.1 w.cnzz.com
 127.0.0.1 statgw2.devtodev.com
 127.0.0.1 analytics.localytics.com
@@ -414,11 +417,12 @@
 127.0.0.1 scc.ssacdn.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 dl.airdroid.com
-127.0.0.1 zs25.cnzz.com
+127.0.0.1 static-ssp.yidianzixun.com
 127.0.0.1 stat3.airdroid.com
 127.0.0.1 r.zlongad.com
 127.0.0.1 tracker.fyber.com
 127.0.0.1 balancer.devtodev.com
+127.0.0.1 f.qcwzx.net.cn
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 ad.doubleclick.net
@@ -432,6 +436,7 @@
 127.0.0.1 images.intellitxt.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 adashbc.m.taobao.com
+127.0.0.1 tracking.miui.com
 127.0.0.1 p2.music.126.net
 127.0.0.1 adashxgc.ut.taobao.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
@@ -443,7 +448,7 @@
 127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 d.applovin.com
 127.0.0.1 s11.cnzz.com
-127.0.0.1 tracking.miui.com
+127.0.0.1 static.idgdmg.com.cn
 127.0.0.1 mam.netease.com
 127.0.0.1 media.trafficjunky.net
 127.0.0.1 webview.unityads.unity3d.com
