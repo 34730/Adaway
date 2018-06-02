@@ -298,7 +298,6 @@
 127.0.0.1 sdk.open.phone.igexin.com
 127.0.0.1 alog.umeng.co.HOST
 127.0.0.1 dl.cm.ksmobile.com
-127.0.0.1 nos.netease.com
 127.0.0.1 nsclick.baidu.com
 127.0.0.1 2879.api.swrve.com
 127.0.0.1 ad.kixer.com
@@ -375,6 +374,7 @@
 127.0.0.1 engage10632snprh.deltadna.net
 127.0.0.1 msg.umengcloud.com
 127.0.0.1 report.huatuo.qq.com
+127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 cdn.unityads.unity3d.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 srv3.airdroid.com
