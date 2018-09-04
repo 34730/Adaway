@@ -41,7 +41,7 @@
 127.0.0.1 pv.sohu.com
 127.0.0.1 mobile-static.adsafeprotected.com
 127.0.0.1 td.mpush.cn
-127.0.0.1 tracker.fyber.com
+127.0.0.1 oimagea8.ydstatic.com
 127.0.0.1 youxi.vip.qq.com
 127.0.0.1 adv-sv-show.focus.cn
 127.0.0.1 201205igp.gameloft.com
@@ -51,6 +51,7 @@
 127.0.0.1 masdk.3g.qq.com
 127.0.0.1 impact.applifier.com
 127.0.0.1 www.startappexchange.com
+127.0.0.1 ipcmm.baidu.com
 127.0.0.1 ua.supersonicads.com
 127.0.0.1 ads.krmobi.com
 127.0.0.1 stats.umsns.com
@@ -78,8 +79,10 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 image2.chelaile.net.cn
 127.0.0.1 api.share.mob.com
+127.0.0.1 www.baidu.com
 127.0.0.1 client.midosoo.com
 127.0.0.1 settings.crashlytics.com
+127.0.0.1 www.yuyue008.cn
 127.0.0.1 iap-mob.ubi.com
 127.0.0.1 ads-union.jd.com
 127.0.0.1 api.shuzilm.cn
@@ -118,6 +121,7 @@
 127.0.0.1 ads.admaru.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 www.google-analytics.com
+127.0.0.1 mountain.zhidao.baidu.com
 127.0.0.1 c.zlongad.com
 127.0.0.1 adservice.google.com
 127.0.0.1 tags.growingio.com
@@ -127,6 +131,7 @@
 127.0.0.1 gllive.gameloft.com
 127.0.0.1 api.vungle.com
 127.0.0.1 ads-sdk.avidly.com
+127.0.0.1 statgw2.devtodev.com
 127.0.0.1 ad.atdmt.com
 127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 s95.cnzz.com
@@ -153,7 +158,7 @@
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 cms.analytics.yahoo.com
 127.0.0.1 hdj.baidu.com
-127.0.0.1 static.fuiou.com
+127.0.0.1 au.umeng.co
 127.0.0.1 cm.pos.baidu.com
 127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 s22.cnzz.com
@@ -194,12 +199,13 @@
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 init.supersonicads.com
 127.0.0.1 api.cloudmobi.net
-127.0.0.1 update.fooview.com
+127.0.0.1 gooncheck.com
 127.0.0.1 req.startappservice.com
 127.0.0.1 data.flurry.com
 127.0.0.1 wd.adcolony.com
 127.0.0.1 js.idgdmg.com.cn
 127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 unidesk.alicdn.com
 127.0.0.1 eclick.baidu.com
 127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 ads.avocet.io
@@ -209,12 +215,14 @@
 127.0.0.1 cm004.getui.igexin.com
 127.0.0.1 smt.admaster.com.cn
 127.0.0.1 mbe-cdn.fyber.com
+127.0.0.1 oimagea2.ydstatic.com
 127.0.0.1 nex.163.com
 127.0.0.1 rm4.adccache.cn
 127.0.0.1 zs25.cnzz.com
 127.0.0.1 cpro.baidu.com
 127.0.0.1 cpro2.baidustatic.com
 127.0.0.1 rcgi.video.qq.com
+127.0.0.1 ja2.gamersky.com
 127.0.0.1 upload.mobpowertech.com
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 blackhole.m.jd.com
@@ -258,6 +266,7 @@
 127.0.0.1 av1.xdrig.com
 127.0.0.1 pat.farvd.com
 127.0.0.1 dai.shuzilm.cn
+127.0.0.1 analytics.shareaholic.com
 127.0.0.1 g.cn.miaozhen.com
 127.0.0.1 bdm.911cha.com
 127.0.0.1 www.adollo.com
@@ -296,6 +305,7 @@
 127.0.0.1 s19.cnzz.com
 127.0.0.1 ad.chelaile.net.cn
 127.0.0.1 sdk.open.phone.igexin.com
+127.0.0.1 static.fuiou.com
 127.0.0.1 alog.umeng.co.HOST
 127.0.0.1 dl.cm.ksmobile.com
 127.0.0.1 nsclick.baidu.com
@@ -319,7 +329,7 @@
 127.0.0.1 hzs12.cnzz.com
 127.0.0.1 static.adzerk.net
 127.0.0.1 img4.airdroid.com
-127.0.0.1 analytics.shareaholic.com
+127.0.0.1 oimagea6.ydstatic.com
 127.0.0.1 outcome.supersonicads.com
 127.0.0.1 video.fyber.com
 127.0.0.1 c.cnzz.com
@@ -330,6 +340,7 @@
 127.0.0.1 app.adjust.com
 127.0.0.1 static.doubleclick.net
 127.0.0.1 cdn.viglink.com
+127.0.0.1 fc2tn.baidu.com
 127.0.0.1 pjsmmm.gameloft.com
 127.0.0.1 umengjmacs.m.taobao.com
 127.0.0.1 mxvp-feature-toggle-prod-1.zenmxapps.com
@@ -339,7 +350,7 @@
 127.0.0.1 rt.applvn.com
 127.0.0.1 engine.sponsorpay.com
 127.0.0.1 w.cnzz.com
-127.0.0.1 statgw2.devtodev.com
+127.0.0.1 fc3tn.baidu.com
 127.0.0.1 analytics.localytics.com
 127.0.0.1 report.gamecenter.qq.com
 127.0.0.1 s.go.sohu.com
@@ -355,6 +366,7 @@
 127.0.0.1 cbjs.baidu.com
 127.0.0.1 pic1.chelaile.net.cn
 127.0.0.1 g.163.com
+127.0.0.1 fc-feed.cdn.bcebos.com
 127.0.0.1 adservice.google.ie
 127.0.0.1 i.go.sohu.com
 127.0.0.1 adv-sv-stat.focus.cn
@@ -362,6 +374,7 @@
 127.0.0.1 s25.cnzz.com
 127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 a.sta.haloapps.com
+127.0.0.1 oimagea1.ydstatic.com
 127.0.0.1 fk.mobpowertech.com
 127.0.0.1 ann-sta.haloapps.com
 127.0.0.1 xtrader.cm.admaster.com.cn
@@ -408,6 +421,7 @@
 127.0.0.1 rpc.tapjoy.com
 127.0.0.1 hpd.baidu.com
 127.0.0.1 track.tenjin.io
+127.0.0.1 fc5tn.baidu.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 scc.ssacdn.com
 127.0.0.1 ssl.google-analytics.com
@@ -415,6 +429,7 @@
 127.0.0.1 static-ssp.yidianzixun.com
 127.0.0.1 stat3.airdroid.com
 127.0.0.1 r.zlongad.com
+127.0.0.1 tracker.fyber.com
 127.0.0.1 balancer.devtodev.com
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 aax.amazon-adsystem.com
@@ -465,6 +480,7 @@
 127.0.0.1 adserver-us.adtech.advertising.com
 127.0.0.1 www.somennew.com
 127.0.0.1 z8.cnzz.com
+127.0.0.1 oimagea5.ydstatic.com
 127.0.0.1 sp1.baidu.com
 127.0.0.1 umengacs.m.taobao.com
 127.0.0.1 api.dmzj.com
