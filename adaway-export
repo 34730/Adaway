@@ -69,6 +69,7 @@
 127.0.0.1 sdk.fiksu.com
 127.0.0.1 qp.yunanfuwuqi.com
 127.0.0.1 adash.m.taobao.com
+127.0.0.1 apm.music.163.com
 127.0.0.1 api.exc.mob.com
 127.0.0.1 secure.ironbeast.io
 127.0.0.1 cdn.oneway.mobi
@@ -216,6 +217,7 @@
 127.0.0.1 smt.admaster.com.cn
 127.0.0.1 mbe-cdn.fyber.com
 127.0.0.1 oimagea2.ydstatic.com
+127.0.0.1 clientlog.music.163.com
 127.0.0.1 nex.163.com
 127.0.0.1 rm4.adccache.cn
 127.0.0.1 zs25.cnzz.com
@@ -333,7 +335,6 @@
 127.0.0.1 outcome.supersonicads.com
 127.0.0.1 video.fyber.com
 127.0.0.1 c.cnzz.com
-127.0.0.1 vodkgeyttp8.vod.126.net
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 adbsc.flyermobi.com
 127.0.0.1 analytics.twitter.com
