@@ -105,7 +105,6 @@
 127.0.0.1 api2.batmobi.net
 127.0.0.1 apiconfig.adwo.com
 127.0.0.1 apm.music.163.com
-127.0.0.1 app-measurement.com
 127.0.0.1 app.adjust.com
 127.0.0.1 app.appsflyer.com
 127.0.0.1 appload.ingest.crittercism.com
@@ -487,4 +486,18 @@
 127.0.0.1 zeus.ad.xiaomi.com
 127.0.0.1 zs25.cnzz.com
 127.0.0.1 zz.bdstatic.com
+127.0.0.1 cmonitor.iqiyi.com
+127.0.0.1 puma-api.iqiyi.com
+127.0.0.1 m.irs01.com
+127.0.0.1 mbdlog.iqiyi.com
+127.0.0.1 msg.qy.net
+127.0.0.1 l-rcd.iqiyi.com
+127.0.0.1 piq.cr-nielsen.com
+127.0.0.1 cmts.iqiyi.com
+127.0.0.1 feb.hdingkun.com
+127.0.0.1 api.cntarget.com
+127.0.0.1 amdcopen.m.taobao.com
+127.0.0.1 m.ie8q.cn
+127.0.0.1 cfg.flurry.com
+127.0.0.1 app-measurement.com
 white dfp.suning.com
