@@ -1,0 +1,12 @@
+*aod-image$domain=baidu.com
+
+*adsense
+
+gimy.tv##.playadbox
+
+/://[a-z]+\.[a-z]+\.com/\d+\?\w+/$script,domain=zxzjs.com,third-party
+
+@@||livew.l.qq.com^*&ad_type=WL%7CWK*&refer=http$script,domain=m.v.qq.com
+/[\d\.]+/vlive.qqvideo.tc.qq.com//
+@@apd-*.com/*.tc.qq.com/*.mp4?$domain=m.v.qq.com
+||node.video.qq.com/x/api/mplay_game
