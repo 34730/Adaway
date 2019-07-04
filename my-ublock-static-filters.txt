@@ -10,3 +10,6 @@ gimy.tv##.playadbox
 /[\d\.]+/vlive.qqvideo.tc.qq.com//
 @@apd-*.com/*.tc.qq.com/*.mp4?$domain=m.v.qq.com
 ||node.video.qq.com/x/api/mplay_game
+
+! 2019/7/4 https://t.ttyyxxy.cn/20408
+/://[a-z]+\.[a-z]+\.[a-z]+/\d+/$script,domain=kuaikan66.com,third-party
