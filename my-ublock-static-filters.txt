@@ -1,15 +1,145 @@
-*aod-image$domain=baidu.com
+!/(?<!lo|thre|re|he|de|%|O|\d{3}|\w{6,})ad(?:[^\w%,]|_)/$script,inline-script,subdocument,image,xmlhttprequest
 
-*adsense
+!/(?:[^\w%]|_)ad(?!apt|d|block|away|vance|vantage|just|min|\w{6,})/$script,inline-script,subdocument,image,xmlhttprequest
 
-gimy.tv##.playadbox
+!/(?<!lo|he|re)ads(?:\b|_)/$script,inline-script,subdocument,image,xmlhttprequest
 
-/://[a-z]+\.[a-z]+\.com/\d+\?\w+/$script,domain=zxzjs.com,third-party
+@@||storage.jd.com/ads.union.master.public/*$image,domain=union.jd.com
 
-@@||livew.l.qq.com^*&ad_type=WL%7CWK*&refer=http$script,domain=m.v.qq.com
-/[\d\.]+/vlive.qqvideo.tc.qq.com//
-@@apd-*.com/*.tc.qq.com/*.mp4?$domain=m.v.qq.com
-||node.video.qq.com/x/api/mplay_game
+!tmall.com
+alicdn.com/*/focusVideo.js
+alicdn.com/*/videox.js
+
+!taobao.com
+g.alicdn.com/mtb/videox
+
+||static.taokouling.com/tkl/index/js/zone.js$script
+
+! 2018/4/14 上午12:18:01 http://www.iqiyi.com/w_19rwg94eu9.html
+!||img5.qiyipic.com/image/cupid/cupid_5acc739414d4557a7bbc1a12_default.gif$image
+||img*.qiyipic.com/image/cupid/cupid_*_*.*$image
+
+!||bj.bcebos.com/fc-feed/0/pic/*.jpg
+!||fc-feed.cdn.bcebos.com/0/pic/*.jpg
+!http://aod-image.baidu.com/5/pic/*.jpg
+!https://aod-image-material.cdn.bcebos.com/5/pic/*.jpg
+/(?=.*aod-image|.*fc-feed)(?=.*bcebos|.*baidu)/
+
+! 2018/5/14 下午7:07:35 baidu.com
+*getHotGames$domain=tieba.baidu.com
+*game_$domain=tieba.baidu.com
+
+!||tieba.baidu.com/mo/q/billboardpushlog?t=1527094471419&r=1898359115414350&client_type=wap_smart&task=tbda&page=frs&da_page_num=1&fid=770027&tid=null&uid=474015957&da_task=tbda&da_fid=770027&da_tid=null&da_uid=474015957&da_page=FRS&daid=86599072085&da_obj_id=86599072085&da_good_id=86599072085&da_obj_name=86599072085&da_cpid=1001&da_ext_info=*&da_client_type=WAP&da_locate=3&da_type=show$image
+/billboardpushlog?
+
+! 2018/4/24 下午8:56:16 baidu.com
+||tb*.bdstatic.com/tb/cms/ngmis/images/*$domain=tieba.baidu.com
+
+! 2018/5/8 上午7:37:28 baidu.com
+!||ss1.bdstatic.com/5KZ1bjqh_Q23odCf/static/princess/img/adv_img/left_f2897383.png?cdnversion=1525736218
+/adv_img
+
+! 2018/4/14 下午6:52:43 cntv.cn
+||www.hugedomains.com/domain_profile.cfm?d=adsunion$script
+
+! 2018/4/14 下午6:56:24 cntv.cn
+||cctv.adsunion.com^$script
+
+! 2018/4/14 下午6:59:41 cntv.cn
+||js.bmgad.com^$script
+
+! 2018/4/18 下午4:15:41 sohu.com
+||qchannel03.cn^
+
+! 2018/4/27 下午8:01:14 wenxuecity.com
+!||www.wenxuecity.com/news/js/ad_placing.js?v=0928171339$script
+/ad_placing
+
+! 2018/4/28 上午1:40:00 bilibili.com
+||api.bilibili.com/x/web-interface/dynamic/total?callback=dynamic_total&jsonp=jsonp$script
+
+! 2018/4/28 下午7:59:38 ntdtv.com
+!||www.ntdtv.com/cms2012/xtr/ads_js/ads_public.js?ver=322$script
+/ads_js
+
+! 2018/5/3 下午10:28:42 pconline.com.cn
+!||js.3conline.com/bbs/pconline/2015/js/coop.js
+/coop.js
+
+! 2018/5/8 上午7:07:23 sina.com.cn
+!||blog.sina.com.cn/lm/rndurllist.js?varname=requestId_31881282$script
+/rndurllist.js
+
+! 2018/5/15 下午11:29:31 sohu.com
+&adposId=
+
+! 2018/5/24 下午7:05:46 androidcentral.com
+!||whirlwealth.com/946a0dbb07c386b37301ead9cbc886c1ca010136b48ce59298667d1232f3c9ea76593424747aa6e3607646391322561ea5addd39b4b31c35f62cd2c6f4b4d96b026808edd3e4ced572259708a67d0a0c29846fea2fec46d6a4811c0cb5c3d2
+||whirlwealth.com^$xmlhttprequest
+
+! 2018/5/29 上午10:46:43 sina.cn
+!||d14.mobaders.com/s/f/5a0410ca747ea8ca949d7e85
+*mobaders$script
+
+!||mjs.sinajs.cn/blog/ria/h5/v2/js/conf/pl/floatBar.js?timestamp=106832
+*floatBar.js
+
+! 2018/5/29 上午11:19:19 sina.cn
+cre*.sina.cn
+
+! 2018/6/19 上午1:20:33 wikia.com
+@@||slot1-images.wikia.nocookie.net^$script,domain=wikia.com
+
+!gimy.tv##.playadbox
+
+! 2019/5/6 163.com
+||pg-ad-b1.ws.126.net^
+||nex.163.com^$script
+
+! 2019/5/18 dlkoo.com
+||dlkoo.*/down/js/ListF_*.js
+||dlkoo.*/down/js/index_*.js
+||tanx.com^$script,domain=dlkoo.com|dlkoo.cc,important
+@@||dlkoo.*/down/copydown
+@@||alicdn.com/t/img/tb1twvvjfxxxxc_axxxxxxxxxxx-40-26.png$domain=dlkoo.com|dlkoo.cc
+
+!canton8.com
+||canton8.*/float.js
+
+!https://www.54new.com/??top_ad.js?t=2019-7-5-15-50,right_ad.js?t=2019-7-5-15-50
+top_ad.js
+right_ad.js
+
+!https://d.54new.com/54new/da/sbz/sbz3.jpg
+||d.54new.com/54new/da/sbz/*
+
+!https://img.alicdn.com/tfs/TB1nOSRmgMPMeJjy1XbXXcwxVXa-440-180.jpg
+||alicdn.com^$domain=54new.com
+
+!https://tikes.omgnjvrjgpeg.com/876?a00b28lc24j
+/://[a-z]+\.[a-z]+\.com/\d+\?\w+/$script,third-party,domain=zxzjs.com
 
 !https://t.ttyyxxy.cn/20408
-/://[a-z]+\.[a-z]+\.[a-z]+/\d+/$script,domain=kuaikan66.com,third-party
+/://[a-z]+\.[a-z]+\.[a-z]+/\d+/$script,third-party,domain=kuaikan66.com
+
+*floatbottom.js$domain=kankanwu.com
+
+!腾讯视频
+&ad_type=
+/960x90_
+!||node.video.qq.com/x/api/mplay_game_rcd?vid=a00260qmoqn&dt=android&callback=jsonp4
+||node.video.qq.com/x/api/mplay_game
+@@||livew.l.qq.com^*&ad_type=WL%7CWK*&refer=http$script,domain=m.v.qq.com
+/[\d\.]+/vlive.qqvideo.tc.qq.com//
+!https://apd-ea4904b20584ee98c56e0f1ecd62bd21.v.smtcdns.com/variety.tc.qq.com/AD7ZoaxrBtpAcdQBZWnEBR2gzKIqtc8vaJpXbnkTFPYM/uwMROfz2r5zEIaQXGdGnCmdfDmYDGtR85EupRLdBz8BWf_yL/x0031m06vkv.mp4?sdtfrom=v5010&guid=b02b1ca8c0fa8ba989c7221815af2b8d&vkey=*&platform=2
+@@apd-*.com/*.tc.qq.com/*.mp4?$domain=m.v.qq.com
+!apd-a398a73aa2895f451760482550a3f133.v.smtcdns.com/defaultts.tc.qq.com/AievqV2Nu7CCWx1Q88M6ILxe1gCC6H-HEfloca7xquKc/uwMROfz2r5zIIaQXGdGnC2df645AHpR-pVjI5hvW8Wk822MC/v2RtztWw5ar_pfBOExPDdb6csuRQLYAnfoatimN2QODeUHF113fwJqLmgSMj-EzaeF9cx1DF0khXwZ7iBPvW45NoL4jG7DLWOhV9BKbK6atrfRFQ_hfTxa7zsythGAgVy9VcGIku6361myE-aG_D58g32JHBwAQHAUwr4nqrXmE/m0202sb7rsb.321002.ts.m3u8?ver=4$xmlhttprequest,domain=v.qq.com
+*.v.smtcdns.com/defaultts.tc.qq.com/*.ts.m3u8?
+!*.v.smtcdns.com/moviets.tc.qq.com/*.ts.m3u8?
+!https://ltsws.qq.com/ztjmsIIFMqWbqNlROHC0Wd4O14UMQQ_27Gxvz_XrEbyJyiYP94Xt2-b-f5i87QQZ6kAtUfZBtmVlW8uiDIVtMrGBr-iFf-NyTAn88vf6XSdnYplUrP-uUGKH52jJK6gOx12Zl2gNOXpEPjAyDO8WbisHXqjtQ143B_xCtJIetF4/o0202u4zeab.321002.ts.m3u8?ver=4
+||ltsws.qq.com
+!dp3.qq.com/stdlog
+||dp*.qq.com/stdlog$xmlhttprequest
+*$xmlhttprequest,domain=v.qq.com
+! 2019/6/29 qq.com
+wss://*$websocket,domain=v.qq.com
