@@ -118,6 +118,8 @@ right_ad.js
 
 !https://tikes.omgnjvrjgpeg.com/876?a00b28lc24j
 /://[a-z]+\.[a-z]+\.com/\d+\?\w+/$script,third-party,domain=zxzjs.com
+!https://www.zxzjs.com/slade1.js
+/slade\d+.js/$domain=zxzjs.com
 
 !https://t.ttyyxxy.cn/20408
 /://[a-z]+\.[a-z]+\.[a-z]+/\d+/$script,third-party,domain=kuaikan1.com
@@ -143,3 +145,4 @@ right_ad.js
 *$xmlhttprequest,domain=v.qq.com
 ! 2019/6/29 qq.com
 wss://*$websocket,domain=v.qq.com
+
