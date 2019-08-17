@@ -6,6 +6,26 @@
 
 @@||storage.jd.com/ads.union.master.public/*$image,domain=union.jd.com
 
+!腾讯视频
+&ad_type=
+/960x90_
+!||node.video.qq.com/x/api/mplay_game_rcd?vid=a00260qmoqn&dt=android&callback=jsonp4
+||node.video.qq.com/x/api/mplay_game
+@@||livew.l.qq.com^*&ad_type=WL%7CWK*&refer=http$script,domain=m.v.qq.com
+/[\d\.]+/vlive.qqvideo.tc.qq.com//
+!https://apd-ea4904b20584ee98c56e0f1ecd62bd21.v.smtcdns.com/variety.tc.qq.com/AD7ZoaxrBtpAcdQBZWnEBR2gzKIqtc8vaJpXbnkTFPYM/uwMROfz2r5zEIaQXGdGnCmdfDmYDGtR85EupRLdBz8BWf_yL/x0031m06vkv.mp4?sdtfrom=v5010&guid=b02b1ca8c0fa8ba989c7221815af2b8d&vkey=*&platform=2
+@@apd-*.com/*.tc.qq.com/*.mp4?$domain=m.v.qq.com
+!apd-a398a73aa2895f451760482550a3f133.v.smtcdns.com/defaultts.tc.qq.com/AievqV2Nu7CCWx1Q88M6ILxe1gCC6H-HEfloca7xquKc/uwMROfz2r5zIIaQXGdGnC2df645AHpR-pVjI5hvW8Wk822MC/v2RtztWw5ar_pfBOExPDdb6csuRQLYAnfoatimN2QODeUHF113fwJqLmgSMj-EzaeF9cx1DF0khXwZ7iBPvW45NoL4jG7DLWOhV9BKbK6atrfRFQ_hfTxa7zsythGAgVy9VcGIku6361myE-aG_D58g32JHBwAQHAUwr4nqrXmE/m0202sb7rsb.321002.ts.m3u8?ver=4$xmlhttprequest,domain=v.qq.com
+*.v.smtcdns.com/defaultts.tc.qq.com/*.ts.m3u8?
+!*.v.smtcdns.com/moviets.tc.qq.com/*.ts.m3u8?
+!https://ltsws.qq.com/ztjmsIIFMqWbqNlROHC0Wd4O14UMQQ_27Gxvz_XrEbyJyiYP94Xt2-b-f5i87QQZ6kAtUfZBtmVlW8uiDIVtMrGBr-iFf-NyTAn88vf6XSdnYplUrP-uUGKH52jJK6gOx12Zl2gNOXpEPjAyDO8WbisHXqjtQ143B_xCtJIetF4/o0202u4zeab.321002.ts.m3u8?ver=4
+||ltsws.qq.com
+!dp3.qq.com/stdlog
+||dp*.qq.com/stdlog$xmlhttprequest
+*$xmlhttprequest,domain=v.qq.com
+! 2019/6/29 qq.com
+wss://*$websocket,domain=v.qq.com
+
 !tmall.com
 alicdn.com/*/focusVideo.js
 alicdn.com/*/videox.js
@@ -126,23 +146,5 @@ right_ad.js
 
 *floatbottom.js$domain=kankanwu.com
 
-!腾讯视频
-&ad_type=
-/960x90_
-!||node.video.qq.com/x/api/mplay_game_rcd?vid=a00260qmoqn&dt=android&callback=jsonp4
-||node.video.qq.com/x/api/mplay_game
-@@||livew.l.qq.com^*&ad_type=WL%7CWK*&refer=http$script,domain=m.v.qq.com
-/[\d\.]+/vlive.qqvideo.tc.qq.com//
-!https://apd-ea4904b20584ee98c56e0f1ecd62bd21.v.smtcdns.com/variety.tc.qq.com/AD7ZoaxrBtpAcdQBZWnEBR2gzKIqtc8vaJpXbnkTFPYM/uwMROfz2r5zEIaQXGdGnCmdfDmYDGtR85EupRLdBz8BWf_yL/x0031m06vkv.mp4?sdtfrom=v5010&guid=b02b1ca8c0fa8ba989c7221815af2b8d&vkey=*&platform=2
-@@apd-*.com/*.tc.qq.com/*.mp4?$domain=m.v.qq.com
-!apd-a398a73aa2895f451760482550a3f133.v.smtcdns.com/defaultts.tc.qq.com/AievqV2Nu7CCWx1Q88M6ILxe1gCC6H-HEfloca7xquKc/uwMROfz2r5zIIaQXGdGnC2df645AHpR-pVjI5hvW8Wk822MC/v2RtztWw5ar_pfBOExPDdb6csuRQLYAnfoatimN2QODeUHF113fwJqLmgSMj-EzaeF9cx1DF0khXwZ7iBPvW45NoL4jG7DLWOhV9BKbK6atrfRFQ_hfTxa7zsythGAgVy9VcGIku6361myE-aG_D58g32JHBwAQHAUwr4nqrXmE/m0202sb7rsb.321002.ts.m3u8?ver=4$xmlhttprequest,domain=v.qq.com
-*.v.smtcdns.com/defaultts.tc.qq.com/*.ts.m3u8?
-!*.v.smtcdns.com/moviets.tc.qq.com/*.ts.m3u8?
-!https://ltsws.qq.com/ztjmsIIFMqWbqNlROHC0Wd4O14UMQQ_27Gxvz_XrEbyJyiYP94Xt2-b-f5i87QQZ6kAtUfZBtmVlW8uiDIVtMrGBr-iFf-NyTAn88vf6XSdnYplUrP-uUGKH52jJK6gOx12Zl2gNOXpEPjAyDO8WbisHXqjtQ143B_xCtJIetF4/o0202u4zeab.321002.ts.m3u8?ver=4
-||ltsws.qq.com
-!dp3.qq.com/stdlog
-||dp*.qq.com/stdlog$xmlhttprequest
-*$xmlhttprequest,domain=v.qq.com
-! 2019/6/29 qq.com
-wss://*$websocket,domain=v.qq.com
-
+!https://d.umjsik.com/vtdd/age1054xjr8202tnci
+*$script,third-party,domain=66s.cc
