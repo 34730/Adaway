@@ -140,6 +140,7 @@ right_ad.js
 /://[a-z]+\.[a-z]+\.com/\d+\?\w+/$script,third-party,domain=zxzjs.com
 !https://www.zxzjs.com/slade1.js
 /slade\d+.js/$domain=zxzjs.com
+zxzjs.com/add.js
 
 !https://t.ttyyxxy.cn/20408
 /://[a-z]+\.[a-z]+\.[a-z]+/\d+/$script,third-party,domain=kuaikan1.com
