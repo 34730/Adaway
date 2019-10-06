@@ -326,6 +326,16 @@
 127.0.0.1 api.adoceans.com
 127.0.0.1 proxy.api.adoceans.com
 127.0.0.1 config.ssp.adoceans.com
+127.0.0.1 analytics.rayjump.com
+127.0.0.1 track.adstack.co
+127.0.0.1 setting.rayjump.com
+127.0.0.1 clk.taptica.com
+127.0.0.1 ad.quwin.cn
+127.0.0.1 global.appnext.com
+127.0.0.1 cdn.appnext.com
+127.0.0.1 admin.appnext.com
+127.0.0.1 apse.s.ludashi.com
+127.0.0.1 apse-sstart.ludashi.com
 white dfp.suning.com
 white wgo.mmstat.com
 white mclick.simba.taobao.com
