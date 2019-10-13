@@ -152,3 +152,7 @@ zxzjs.com/add.js
 
 !https://c.m.163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 /backflow$script,domain=163.com
+!https://c.m.163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
+/backflow$script,domain=163.com
+!https://3g.163.com/wap/special/flow-advertize/
+/flow-advertize
