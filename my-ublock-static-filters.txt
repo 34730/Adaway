@@ -149,3 +149,6 @@ zxzjs.com/add.js
 
 !https://d.umjsik.com/vtdd/age1054xjr8202tnci
 *$script,third-party,domain=66s.cc|suanzao.tv
+
+!https://c.m.163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
+/backflow$script,domain=163.com
