@@ -156,4 +156,4 @@ zxzjs.com/add.js
 !https://3g.163.com/wap/special/back-flow-advertize/
 !https://3g.163.com/wap/special/back-flowlite-api/
 advertize$script,domain=163.com
-back-flow&script,domain=163.com
+back-flow$script,domain=163.com
