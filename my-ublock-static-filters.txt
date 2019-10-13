@@ -151,7 +151,7 @@ zxzjs.com/add.js
 *$script,third-party,domain=66s.cc|suanzao.tv
 
 !https://c.m.163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
-/backflow$script,domain=163.com
+backflow$script,domain=163.com
 !https://3g.163.com/wap/special/flow-advertize/
 !https://3g.163.com/wap/special/back-flow-advertize/
 !https://3g.163.com/wap/special/back-flowlite-api/
