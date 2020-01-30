@@ -24,7 +24,7 @@
 ||dp*.qq.com/stdlog$xmlhttprequest
 *$xmlhttprequest,domain=v.qq.com
 ! 2019/6/29 qq.com
-wss://*$websocket,domain=v.qq.com
+!wss://*$websocket,domain=v.qq.com
 
 !tmall.com
 !alicdn.com/*/focusVideo.js
