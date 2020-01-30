@@ -27,11 +27,11 @@
 wss://*$websocket,domain=v.qq.com
 
 !tmall.com
-alicdn.com/*/focusVideo.js
-alicdn.com/*/videox.js
+!alicdn.com/*/focusVideo.js
+!alicdn.com/*/videox.js
 
 !taobao.com
-g.alicdn.com/mtb/videox
+!g.alicdn.com/mtb/videox
 
 ||static.taokouling.com/tkl/index/js/zone.js$script
 
