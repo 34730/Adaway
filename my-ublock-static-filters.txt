@@ -161,3 +161,4 @@ back-flow$script,domain=163.com
 !https://api.bilibili.com/x/web-show/res/locs?callback=jqueryCallback_bili_5711761257903314&pf=0&jsonp=jsonp&ids=2624%2C2625%2C3038&_=1582772836908
 ||api.bilibili.com/x/web-show/*
 bilibili.com##.bili-app-link
+bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
