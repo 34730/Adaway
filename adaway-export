@@ -336,6 +336,17 @@
 127.0.0.1 admin.appnext.com
 127.0.0.1 apse.s.ludashi.com
 127.0.0.1 apse-sstart.ludashi.com
+127.0.0.1 vhunantv.admaster.com.cn
+127.0.0.1 ssaxcode-upos-hz-cdn.acgvideo.com
+127.0.0.1 cm.bilibili.com
+127.0.0.1 apm-misaka.biliapi.net
+127.0.0.1 dataflow.biliapi.com
+127.0.0.1 log1.cmpassport.com
+127.0.0.1 data.bilibili.com
+127.0.0.1 app.biliapi.net
+127.0.0.1 yun-hl.3g.qq.com
+127.0.0.1 imgs.yqdfjf.cn
+127.0.0.1 api.sjbchina.cn
 white dfp.suning.com
 white wgo.mmstat.com
 white mclick.simba.taobao.com
@@ -343,3 +354,5 @@ white s22.cnzz.com
 white activity.app.autohome.com.cn
 white c.cnzz.com
 white s5.cnzz.com
+white cnzz.mmstat.com
+white ei.cnzz.com
