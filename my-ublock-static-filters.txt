@@ -162,3 +162,6 @@ back-flow$script,domain=163.com
 ||api.bilibili.com/x/web-show/*
 bilibili.com##.bili-app-link
 bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
+
+!https://cdn.cqtnfs.com/maizhan/js/age.js?v=20200520
+||cdn.cqtnfs.com/maizhan/js/
