@@ -139,8 +139,8 @@ right_ad.js
 !https://tikes.omgnjvrjgpeg.com/876?a00b28lc24j
 /://[a-z]+\.[a-z]+\.com/\d+\?\w+/$script,third-party,domain=zxzjs.com|zxzj.me
 !https://www.zxzjs.com/slade1.js
-/zxzjs?\.\w+/slade\d+\.js/
-zxzjs?.*/add.js
+/zxzjs?\.\w+/\w+\.js/
+!zxzjs?.*/add.js
 
 !https://t.ttyyxxy.cn/20408
 /://[a-z]+\.[a-z]+\.[a-z]+/\d+/$script,third-party,domain=kuaikan1.com
