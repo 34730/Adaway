@@ -165,4 +165,5 @@ bilibili.com##.bili-app-link
 bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
 
 !https://cdn.cqtnfs.com/maizhan/js/age.js?v=20200520
-||cdn.cqtnfs.com/maizhan/js/
+!https://cdn.jinfu.love/maizhan/js/age.js?v=20200520
+/maizhan/js/
