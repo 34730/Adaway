@@ -163,3 +163,6 @@ back-flow$script,domain=163.com
 ||api.bilibili.com/x/web-show/*
 bilibili.com##.bili-app-link
 bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
+
+! 2020-11-22 https://18comic3.biz
+||18comic*.*/static/resources/*
