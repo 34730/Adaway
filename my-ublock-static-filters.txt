@@ -166,3 +166,4 @@ bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
 
 ! 2020-11-22 https://18comic3.biz
 ||18comic*.*/static/resources/*
+||18comic*.*/templates/frontend/airav/js/partialviewslider.min.js
